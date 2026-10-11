@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+runs/replay/
+runs/*_t/
+*.gif
+*.mp4
