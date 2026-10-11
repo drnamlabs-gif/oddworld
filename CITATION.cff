@@ -1,0 +1,30 @@
+# Dr. Nam H. Le. drnamlabs.com, bunnyquant.com
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the technical note below."
+title: "Oddworld: code and data"
+authors:
+  - family-names: Le
+    given-names: Nam H.
+    email: nam.le@uvm.edu
+    affiliation: "Department of Computer Science and Vermont Complex Systems Institute, University of Vermont"
+repository-code: "https://github.com/drnamlabs-gif/oddworld"
+license: MIT
+date-released: "2026-10-11"
+keywords:
+  - artificial life
+  - emergence
+  - relational reasoning
+  - implicit selection
+  - neuroevolution
+  - attention
+preferred-citation:
+  type: report
+  title: "Oddworld: relational reasoning emerges under implicit selection in evolving attention agents"
+  authors:
+    - family-names: Le
+      given-names: Nam H.
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.23291253"
+  url: "https://doi.org/10.5281/zenodo.23291253"

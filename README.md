@@ -1,8 +1,10 @@
 # Oddworld: relational reasoning emerges under implicit selection in evolving attention agents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23291253.svg)](https://doi.org/10.5281/zenodo.23291253)
+
 Dr. Nam H. Le. drnamlabs.com, bunnyquant.com
 
-Code and data for the technical note (DOI: 10.5281/zenodo.23291253) by Nam H. Le (Department of Computer Science and Vermont Complex Systems Institute, University of Vermont; nam.le@uvm.edu), October 2026.
+Code and data for the technical note [Oddworld: relational reasoning emerges under implicit selection in evolving attention agents](https://doi.org/10.5281/zenodo.23291253) by Nam H. Le (Department of Computer Science and Vermont Complex Systems Institute, University of Vermont; nam.le@uvm.edu), October 2026.
 
 Requirements: Python 3.11+, PyTorch 2.x, NumPy, SciPy, Matplotlib.
 
@@ -33,3 +35,19 @@ python neutrality_check.py --condition neutral --mode shuffle
 ```
 
 Code: MIT licence (see LICENSE). Text, figures, video and data: CC BY 4.0.
+
+## Citation
+If you use this code or data, please cite:
+
+> Le, N. H. (2026). Oddworld: relational reasoning emerges under implicit selection in evolving attention agents. Zenodo. https://doi.org/10.5281/zenodo.23291253
+
+```bibtex
+@misc{le2026oddworld,
+  author    = {Le, Nam H.},
+  title     = {Oddworld: relational reasoning emerges under implicit selection in evolving attention agents},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23291253},
+  url       = {https://doi.org/10.5281/zenodo.23291253}
+}
+```
